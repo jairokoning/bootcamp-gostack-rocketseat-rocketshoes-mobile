@@ -18,4 +18,4 @@ The fake data comes from [Json Server](https://github.com/typicode/json-server).
  - and many others...
 
 ## Preview
-[Preview Mobile App](https://github.com/jairokoning/bootcamp-gostack-rocketseat-rocketshoes-mobile/blob/master/src/assets/preview.gif)
+![Preview](https://github.com/jairokoning/bootcamp-gostack-rocketseat-rocketshoes-mobile/blob/master/src/assets/preview.gif)
